@@ -1,0 +1,29 @@
+2026-06-10 23:36:34,355 | INFO | Starting synchronous value iteration: gamma=0.9 theta=0.0
+2026-06-10 23:36:34,356 | INFO | Value Iteration iteration=1 delta=10.00000000
+2026-06-10 23:36:34,357 | INFO | Value Iteration iteration=2 delta=9.00000000
+2026-06-10 23:36:34,357 | INFO | Finished synchronous value iteration in 2 iterations and 0.002214 seconds
+2026-06-10 23:36:34,358 | INFO | Final values: [19.0, 19.0, 14.0, 19.0]
+2026-06-10 23:36:34,397 | INFO | Starting synchronous value iteration: gamma=0.9 theta=1e-06
+2026-06-10 23:36:34,398 | INFO | Value Iteration iteration=1 delta=10.00000000
+2026-06-10 23:36:34,399 | INFO | Value Iteration iteration=2 delta=9.00000000
+2026-06-10 23:36:34,400 | INFO | Value Iteration iteration=3 delta=8.10000000
+2026-06-10 23:36:34,401 | INFO | Value Iteration iteration=4 delta=7.29000000
+2026-06-10 23:36:34,402 | INFO | Value Iteration iteration=5 delta=6.56100000
+2026-06-10 23:36:34,404 | INFO | Finished synchronous value iteration in 9 iterations and 0.006276 seconds
+2026-06-10 23:36:34,405 | INFO | Final values: [-0.434, 0.629, 1.81, 3.122, 4.58, 0.629, 1.81, 3.122, 4.58, 6.2, 1.81, 3.122, 4.58, 6.2, 8.0, 3.122, 4.58, 6.2, 8.0, 10.0, 4.58, 6.2, 8.0, 10.0, 10.0]
+2026-06-10 23:36:34,424 | INFO | Starting in-place value iteration: gamma=0.9 theta=1e-06
+2026-06-10 23:36:34,425 | INFO | In-place Value Iteration iteration=1 delta=10.00000000
+2026-06-10 23:36:34,426 | INFO | In-place Value Iteration iteration=2 delta=9.00000000
+2026-06-10 23:36:34,427 | INFO | In-place Value Iteration iteration=3 delta=8.10000000
+2026-06-10 23:36:34,428 | INFO | In-place Value Iteration iteration=4 delta=7.29000000
+2026-06-10 23:36:34,429 | INFO | In-place Value Iteration iteration=5 delta=6.56100000
+2026-06-10 23:36:34,431 | INFO | Finished in-place value iteration in 9 iterations and 0.005668 seconds
+2026-06-10 23:36:34,431 | INFO | Final in-place values: [-0.434, 0.629, 1.81, 3.122, 4.58, 0.629, 1.81, 3.122, 4.58, 6.2, 1.81, 3.122, 4.58, 6.2, 8.0, 3.122, 4.58, 6.2, 8.0, 10.0, 4.58, 6.2, 8.0, 10.0, 10.0]
+2026-06-10 23:36:34,465 | INFO | Starting off-policy Monte Carlo: episodes=5000 gamma=0.9
+2026-06-10 23:36:34,467 | INFO | MC episode=1 length=100
+2026-06-10 23:36:34,470 | INFO | MC episode=10 length=23
+2026-06-10 23:36:34,490 | INFO | MC episode=100 length=100
+2026-06-10 23:36:34,678 | INFO | MC episode=1000 length=55
+2026-06-10 23:36:35,495 | INFO | MC episode=5000 length=1
+2026-06-10 23:36:35,496 | INFO | Finished off-policy MC in 1.030222 seconds
+2026-06-10 23:36:35,497 | INFO | MC estimated values: [-0.438, 0.62, 1.764, 3.023, 4.495, 0.484, 1.723, 3.046, 4.533, 6.13, 1.708, 3.04, 4.492, 6.129, 7.964, 3.085, 4.533, 6.153, 7.971, 10.0, 4.532, 5.895, 7.962, 10.0, 10.0]

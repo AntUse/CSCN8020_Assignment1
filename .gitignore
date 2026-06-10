@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Runtime logs: keep only the sample required by assignment
+*.log
+!logs/sample_execution.log
+
+# Large or temporary files
+.cache/
+tmp/
+temp/
+*.zip
