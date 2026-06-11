@@ -1,12 +1,12 @@
 # CSCN8020 Assignment 1 - Reinforcement Learning Programming
 
-**Student name:** Emmanuel Ihejiamaizu  
-**Student ID:** 908005  
-**Course:** CSCN8020 - Reinforcement Learning Programming
+### Student name: Anthony Izevbokun  
+### Student ID: 9016626
+### Course: CSCN8020 - Reinforcement Learning Programming
 
 ## Summary
 
-This repository contains the complete solution for Assignment 1. The work is organized in one Jupyter Notebook and supporting Python source files. The assignment covers MDP design, manual and coded value iteration, standard versus in-place dynamic programming, and off-policy Monte Carlo control with importance sampling.
+This assignment covers four reinforcement learning problems: designing a pick-and-place robot as an MDP, performing two manual value-iteration sweeps on a 2x2 Gridworld, running value iteration and in-place value iteration on a 5x5 Gridworld, and applying off-policy Monte Carlo control with importance sampling on the same 5x5 environment..
 
 ## Repository structure
 
