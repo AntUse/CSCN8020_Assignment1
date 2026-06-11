@@ -37,7 +37,7 @@ CSCN8020_Assignment1/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/chooksemmanuel/CSCN8020_Assignment1.git
+git clone https://github.com/AntUse/CSCN8020_Ass1.git
 cd CSCN8020_Assignment1
 ```
 
@@ -85,10 +85,4 @@ jupyter notebook CSCN8020_Assignment1.ipynb
 - The 5x5 action list in the assignment repeats `down`; this solution interprets the repeated action as `left` to form the usual four actions: right, down, left, and up.
 - Monte Carlo estimates may not exactly match value iteration after a finite number of episodes because Monte Carlo learns from random sampled episodes.
 
-## Brightspace submission
 
-Only the one-page PDF should be submitted to Brightspace. The public repository URL for the PDF is:
-
-```text
-https://github.com/chooksemmanuel/CSCN8020_Assignment1.git
-```
