@@ -37,7 +37,7 @@ CSCN8020_Assignment1/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/AntUse/CSCN8020_Ass1.git
+git clone https://github.com/AntUse/CSCN8020_Assignment1.git
 cd CSCN8020_Assignment1
 ```
 
